@@ -8,7 +8,7 @@
     "configurePresets": [
         {
             "name": "common-base",
-            "hidden": true,
+            "hidden": false,
             "binaryDir": "${sourceDir}/build"
         },
         {
